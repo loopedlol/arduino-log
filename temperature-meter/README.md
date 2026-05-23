@@ -20,7 +20,7 @@ Example: I built a simple LED circuit and uploaded code to make the LED turn on 
 - three 220 ohms resistors
 
 ## Photos
-- `setup.jpg`
+- `20260522_212503.jpg`
 
 ## Code
 Main file: `code.ino`
