@@ -7,9 +7,7 @@ May 22, 2026
 To be able to measure temperatures and provide a response light
 
 ## Project Summary
-Briefly explain what you built in 2–4 sentences.
-
-Example: I built a simple LED circuit and uploaded code to make the LED turn on and off repeatedly. This helped me practice wiring components on a breadboard and using basic Arduino functions like `pinMode()`, `digitalWrite()`, and `delay()`.
+I built a simple circuit with code whose function was to read the temperance and give either red, yellow, or green light to indicate the level. This helped me practice wiring components on the breadboard and using basic functions like `pinMode()`, `digitalWrite()`, and `delay()`.
 
 ## Parts Used
 - Arduino Uno R4
@@ -26,6 +24,5 @@ Example: I built a simple LED circuit and uploaded code to make the LED turn on 
 Main file: `code.ino`
 
 ## What I Learned
-- 
-- 
-- 
+- Learned how to use `analogRead()`
+- Learned how a TMP36 sensor works
