@@ -25,7 +25,7 @@ I built a simple circuit that took in inputs from 3 phototransistors, each with 
 - `20260523_110505.jpg`
 
 ## Code
-- `code.ino`
+- [`code.ino`](code.ino)
 
 ## Notes
 - `PWM` is a technique where the output pin is turned HIGH and LOW rapidly over consistent periods.
