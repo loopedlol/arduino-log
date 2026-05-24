@@ -20,9 +20,9 @@ I built a simple circuit that took in inputs from 3 phototransistors, each with 
 - Colored gels
 
 ## Photos
-- `20260523_110437.jpg`
-- `20260523_110454.jpg`
-- `20260523_110505.jpg`
+- [`Angle 1`](20260523_110437.jpg)
+- [`Angle 2`](20260523_110454.jpg)
+- [`Angle 3`](20260523_110505.jpg)
 
 ## Code
 - [`code.ino`](code.ino)
